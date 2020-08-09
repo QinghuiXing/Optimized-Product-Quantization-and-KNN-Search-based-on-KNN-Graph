@@ -25,17 +25,14 @@ details are provided in the demo `main.cpp`<br/>
 
 ## Performance
 QPS-Precision on SIFT-1M and GIST-1M with 100NN-Graph
-![]
-(https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/qps-precision_no_outliers.png)
+![](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/qps-precision_no_outliers.png)
 <br/>
 
 QPS-Precision on SIFT-1M with XNN-Graph
-![]
-(https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/qps-precision_XNNGraph_v2.png)
+![](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/qps-precision_XNNGraph_v2.png)
 <br/>
 and its memory usage
-![]
-(https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/memory_XNNGraph.png)
+![](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/memory_XNNGraph.png)
 <br/>
 
 # Optimized Product Quantization
