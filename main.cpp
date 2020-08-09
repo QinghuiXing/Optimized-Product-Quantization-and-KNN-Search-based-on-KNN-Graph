@@ -1,4 +1,4 @@
-﻿// to activate Eigen library
+// to activate Eigen library
 #define EIGEN_USE_MKL_ALL
 #define EIGEN_VECTORIZE_SSE4_2
 
@@ -74,7 +74,7 @@ int main()
 	utils Utils;
 	 Utils.load_xvecs(file_query, query, sift1m_dimension, sift1m_query_num);
 	 Utils.load_xvecs(file_knngraph, knngraph, knn);
-	 Utils.load_xvecs(file_knngraph, knngraph);
+//	 Utils.load_xvecs(file_knngraph, knngraph);
 	 Utils.load_xvecs(file_groundtruth, groundtruth);
 	 Utils.load_xvecs(file_basedata, basedata, sift1m_dimension, sift1m_num_of_samples);
 
