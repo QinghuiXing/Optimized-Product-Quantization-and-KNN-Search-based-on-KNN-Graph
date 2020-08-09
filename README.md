@@ -1,6 +1,6 @@
 # Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph
 
-An implementation of 'K Nearest Neighbors Search based on KNN-Graph' and 'Optimized Product Quantization'
+An implementation of `K Nearest Neighbors Search based on KNN-Graph` and `Optimized Product Quantization`
 
 ## Tools
 >Eigen 3<br/>
