@@ -20,6 +20,7 @@ An implementation of `K Nearest Neighbors Search based on KNN-Graph` and `Optimi
 
   100NN-Graph
   >Build a 100NN-Graph from given dataset and encode it into binary file and make sure the binary file has the same structure as `.ivecs`
+  >Then place it under `./dataset`
 
 # K Nearest Neighbors Search based on KNN-Graph
 
