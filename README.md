@@ -11,7 +11,7 @@ An implementation of `K Nearest Neighbors Search based on KNN-Graph` and `Optimi
 
   SIFT-1M & GIST-1M : 
   >[Download](http://corpus-texmex.irisa.fr)<br/>
-  >Then put all '.fvecs' and '.ivecs' files under `'./dataset'`.<br/>
+  >Then put all `.fvecs` and `.ivecs` files under `'./dataset'`.<br/>
   
   Self-made binary files for KNN Search with OPQ : 
   >[Download](https://pan.baidu.com/s/1EeZ1uQQ8P7j1n9Y_agqg_A) from BaiduPan with key `6raq`<br/>
