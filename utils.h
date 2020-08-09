@@ -9,7 +9,7 @@ namespace aknnspace {
 		
 		void load_xvecs(const char* filename, unsigned* &knngraph, unsigned k);
 		/*
-			@brief:load 'k'NN-Graph into one-dim array; k is customed.
+			@brief:load 'k'NN-Graph into one-dim array; k is specified.
 			@params:
 				filename: file path of the Graph
 				data: pointer to head of kNN-Graph array, shape: num of sample * k (num of sample is encoded in the file)
