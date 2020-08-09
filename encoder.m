@@ -13,11 +13,12 @@ for i = 1:32
     centroids(:,(i-1)*4+1:i*4) = centers_table_opq_np{i};    
 end
 fileIN_centroids = fopen('centroids.fcode','wb');
-fwrite(fileIN_centroids, centroids-1', 'float');
+fwrite(fileIN_centroids, (centroids-1)', 'float');
 fclose(fileIN_centroids);
 
 % Encoding codebook
 fileIN_codebook = fopen('codebook.u8code','wb');
+% raw data are 1-based.
 fwrite(fileIN_codebook, (code_opq_np-1)');
 fclose(fileIN_codebook);
 
