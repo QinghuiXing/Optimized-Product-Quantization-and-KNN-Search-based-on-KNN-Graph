@@ -44,6 +44,5 @@ Details are provided in the demo `main.cpp`<br/>
 
 ## Performance
 Distortion with different code length on SIFT-1M
-![]
-(https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/distortion-codelength_mycode.png)
+![](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/distortion-codelength_mycode.png)
 
