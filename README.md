@@ -18,6 +18,9 @@ An implementation of `K Nearest Neighbors Search based on KNN-Graph` and `Optimi
   >Then put them all under `'./dataset/256bits_100iter_8bits'`<br/>
   >Also, you could choose to encode you results (codebook, centroids, lookuptable, matrix R) of Optimized Product Quantization into such kind of files using `encoder.m`. The source Matlab code of Optimized Product Quantization can be found in [here](http://kaiminghe.com/cvpr13/matlab_OPQ_release_v1.1.rar) 
 
+  100NN-Graph
+  >Build a 100NN-Graph from given dataset and encode it into binary file and make sure the binary file has the same structure as `.ivecs`
+
 # K Nearest Neighbors Search based on KNN-Graph
 
 ## How to run it
