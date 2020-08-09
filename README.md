@@ -25,14 +25,14 @@ details are provided in the demo `main.cpp`<br/>
 
 ## Performance
 QPS-Precision on SIFT-1M and GIST-1M with 100NN-Graph
-![](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/qps-precision_no_outliers.png)
+![QPS-Precision on SIFT-1M and GIST-1M with 100NN-Graph](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/qps-precision_no_outliers.png)
 <br/>
 
 QPS-Precision on SIFT-1M with XNN-Graph
-![](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/qps-precision_XNNGraph_v2.png)
+![QPS-Precision on SIFT-1M with XNN-Graph](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/qps-precision_XNNGraph_v2.png)
 <br/>
 and its memory usage
-![](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/memory_XNNGraph.png)
+![memory usage](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/memory_XNNGraph.png)
 <br/>
 
 # Optimized Product Quantization
@@ -41,5 +41,5 @@ Details are provided in the demo `main.cpp`<br/>
 
 ## Performance
 Distortion with different code length on SIFT-1M
-![](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/distortion-codelength_mycode.png)
+![Distortion with different code length on SIFT-1M](https://github.com/QinghuiXing/Optimized-Product-Quantization-and-KNN-Search-based-on-KNN-Graph/figure/distortion-codelength_mycode.png)
 
