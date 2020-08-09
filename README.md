@@ -16,7 +16,7 @@ An implementation of `K Nearest Neighbors Search based on KNN-Graph` and `Optimi
   Self-made binary files for KNN Search with OPQ : 
   >[Download](https://pan.baidu.com/s/1EeZ1uQQ8P7j1n9Y_agqg_A) from BaiduPan with key `6raq`<br/>
   >Then put them all under `'./dataset/256bits_100iter_8bits'`<br/>
-  >Also, you could choose to encode you results (codebook, centroids, lookuptable, matrix R) of Optimized Product Quantization into such kind of files using `encoder.m`
+  >Also, you could choose to encode you results (codebook, centroids, lookuptable, matrix R) of Optimized Product Quantization into such kind of files using `encoder.m`. The source Matlab code of Optimized Product Quantization can be found in [here](http://kaiminghe.com/cvpr13/matlab_OPQ_release_v1.1.rar) 
 
 # K Nearest Neighbors Search based on KNN-Graph
 
